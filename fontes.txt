@@ -1,0 +1,3 @@
+Passion one Bold - Título cabeçalho - 159px
+Open Sans - Link cabeçalho e footer - 16px
+Sriracha Regular - poesia - 55px
